@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+EN/Proj_UD_ML_P5/cifar-10-batches-py/data_batch_1
+EN/Proj_UD_ML_P5/cifar-10-batches-py/data_batch_2
+EN/Proj_UD_ML_P5/cifar-10-batches-py/data_batch_3
+EN/Proj_UD_ML_P5/cifar-10-batches-py/data_batch_4
+EN/Proj_UD_ML_P5/cifar-10-batches-py/data_batch_5
+EN/Proj_UD_ML_P5/preprocess_batch_1.p
+EN/Proj_UD_ML_P5/preprocess_batch_2.p
+EN/Proj_UD_ML_P5/preprocess_batch_3.p
+EN/Proj_UD_ML_P5/preprocess_batch_4.p
+EN/Proj_UD_ML_P5/preprocess_batch_5.p
+EN/Proj_UD_ML_P5/preprocess_validation.p
+*.p
+*.meta
+*.gz
+EN/Proj_UD_ML_P5/cifar-10-batches-py/test_batch
