@@ -60,3 +60,4 @@ EN/Proj_UD_ML_P5/preprocess_validation.p
 *.meta
 *.gz
 EN/Proj_UD_ML_P5/cifar-10-batches-py/test_batch
+EN/Proj_UD_ML_P5/image_classification.data-00000-of-00001
